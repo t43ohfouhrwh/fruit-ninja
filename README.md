@@ -1,1 +1,2 @@
-# fruit-ninja
+# Fruit Ninja
+Credits to Ultimate Game Stash
